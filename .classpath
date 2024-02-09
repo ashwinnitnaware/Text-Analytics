@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/ant.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/ant-contrib.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/ant-launcher.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/aopalliance.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/apache-mime4j-core.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/apache-mime4j-dom.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/bcmail-jdk15.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/bcprov-jdk15.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/commons-codec.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/commons-compress.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/commons-io.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/commons-lang.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/commons-logging.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/dom4j.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/fontbox.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/gate.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/gate-asm.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/gate-compiler-jdt.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/ivy.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/java2html.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/javacc.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/java-getopt.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/jaxen.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/jdom.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/jempbox.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/junit.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/log4j.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/lucene-core.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/metadata-extractor.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/nekohtml.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/ojdbc14.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/pdfbox.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/poi.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/poi-ooxml.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/poi-ooxml-schemas.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/poi-scratchpad.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/spring-aop.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/spring-beans.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/spring-core.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/tika-core.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/tika-parsers.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/wstx-lgpl.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/xercesImpl.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/xmlbeans.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/xmlunit.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/xpp3.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Sentimental Analysis/Text Analytics/WebContent/WEB-INF/lib/xstream.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/gate.jar"/>
+	<classpathentry exported="true" kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/bin/gate.jar"/>
+	<classpathentry exported="true" kind="lib" path="gate-7.0-build4195-ALL/gate-7.0-build4195-ALL/bin/gateLauncher.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
